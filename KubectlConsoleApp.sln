@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KubectlConsoleApp", "KubectlConsoleApp\KubectlConsoleApp.csproj", "{EBB64FE0-3EC9-40A9-A2BE-82F813D7AFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB64FE0-3EC9-40A9-A2BE-82F813D7AFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB64FE0-3EC9-40A9-A2BE-82F813D7AFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB64FE0-3EC9-40A9-A2BE-82F813D7AFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB64FE0-3EC9-40A9-A2BE-82F813D7AFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E7BC00F-2985-4745-A864-3EFCEC6D7A8E}
+	EndGlobalSection
+EndGlobal
